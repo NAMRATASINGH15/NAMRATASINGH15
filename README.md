@@ -18,4 +18,7 @@
 [<img src="https://img.icons8.com/color/48/000000/youtube-play.png"/>](https://www.youtube.com/channel/UCFLpZpY00pqUMWHtkVt-0BQ)&nbsp;
 [<img src="brand-icon.png" width="38px">](https://hashnode.com/@itsNS)
 
+
 <img src="https://github-readme-stats.vercel.app/api?username=NAMRATASINGH15&&show_icons=true&title_color=#59f&icon_color=#59f&text_color=#000&bg_color=#fff">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAMRATASINGH15&layout=compact)](https://github.com/NAMRATASINGH15/github-readme-stats)

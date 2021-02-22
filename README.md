@@ -14,7 +14,7 @@
 [<img src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>](https://twitter.com/itsNS97) 
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>](https://www.instagram.com/itsns1511/)
 [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>](https://www.facebook.com/NamrataSingh1511/)&nbsp;
-[<img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>](namratasinghvns15@gmail.com)&nbsp;
+[<img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>](mailto:namratasinghvns15@gmail.com)&nbsp;
 [<img src="https://img.icons8.com/color/48/000000/youtube-play.png"/>](https://www.youtube.com/channel/UCFLpZpY00pqUMWHtkVt-0BQ)&nbsp;
 [<img src="brand-icon.png" width="38px">](https://hashnode.com/@itsNS)
 
